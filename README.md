@@ -4,17 +4,10 @@ Desenvolvedor focado em criar soluções que unem a eficiência da automação c
 
 ---
 
-### 🎨 Front-End Development
-Projetos onde foco em UI/UX, animações CSS e interatividade com JavaScript:
-
-* [**Bible App**](https://github.com/rubenslpdev/Bible) - Aplicativo de leitura bíblica focado em UX limpa e sem distrações.
-* [**Formulário Padrão**](https://github.com/rubenslpdev/formulario-padrao) - Sistema de login com validação completa e floating placeholders via CSS.
-* [**Mostro Hotsite**](https://github.com/rubenslpdev/mostro) - Landing page para o projeto de exchange Cripto P2P.
-* [**PassGen**](https://github.com/rubenslpdev/passgen) - Gerador de senhas seguras desenvolvido para prática de lógica em JS.
-
 ### 🐍 Python & Automação
-Scripts inteligentes para extração de dados e notificações automáticas:
+Scripts inteligentes para extração de dados e notificações automáticas: 
 
+* [**Guardian Sentinel**](https://github.com/rubenslpdev/guardian-sentinel) - Ecossistema de monitoramento inteligente e auto-recuperável projetado para servidores LAMP.
 * [**Market Report**](https://github.com/rubenslpdev/market-report) - Bot que analisa tendências da B3 e Cripto, enviando relatórios via Telegram.
 * [**Weather Telegram Bot**](https://github.com/rubenslpdev/weather-report) - Script que consome APIs nacionais para alertas climáticos diretos no celular.
 * [**Python Lab**](https://github.com/rubenslpdev/python-lab) - Laboratório de estudos e automações diversas para produtividade.
@@ -24,6 +17,14 @@ Configurações de ambiente e utilitários para Linux:
 
 * [**Dotfiles**](https://github.com/rubenslpdev/dotfiles) - Minhas configurações personalizadas do Debian (Lua/Config).
 * [**Scripts Linux**](https://github.com/rubenslpdev/scripts) - Repositório central de experimentos e automações em Shell Script.
+
+### 🎨 Front-End Development
+Projetos onde foco em UI/UX, animações CSS e interatividade com JavaScript:
+
+* [**Bible App**](https://github.com/rubenslpdev/Bible) - Aplicativo de leitura bíblica focado em UX limpa e sem distrações.
+* [**Mostro Hotsite**](https://github.com/rubenslpdev/mostro) - Landing page para o projeto de exchange Cripto P2P.
+* [**Formulário Padrão**](https://github.com/rubenslpdev/formulario-padrao) - Sistema de login com validação completa e floating placeholders via CSS.
+* [**PassGen**](https://github.com/rubenslpdev/passgen) - Gerador de senhas seguras desenvolvido para prática de lógica em JS.
 
 ---
 
