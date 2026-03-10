@@ -7,6 +7,7 @@ Desenvolvedor focado em criar soluções que unem a eficiência da automação c
 ### 🐍 Python & Automação
 Scripts inteligentes para extração de dados e notificações automáticas: 
 
+* [**Crypto Arbitrage Bot**](https://github.com/rubenslpdev/crypto_arbitrage_bot) - Um bot de trading automatizado desenvolvido em Python para operar o par **ETH/BTC** na **Binance** 
 * [**Guardian Sentinel**](https://github.com/rubenslpdev/guardian-sentinel) - Ecossistema de monitoramento inteligente e auto-recuperável projetado para servidores LAMP.
 * [**Market Report**](https://github.com/rubenslpdev/market-report) - Bot que analisa tendências da B3 e Cripto, enviando relatórios via Telegram.
 * [**Weather Telegram Bot**](https://github.com/rubenslpdev/weather-report) - Script que consome APIs nacionais para alertas climáticos diretos no celular.
